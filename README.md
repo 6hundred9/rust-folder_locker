@@ -1,3 +1,7 @@
-ignore why the source code is so ass
+(ignore why src so ass)
 
-first semi-working version (not saved anywhere, rip) created a 1.5gbs .tar from an empty folder
+# Rust folder locker
+my first pretty decent rust project
+
+## To use, just open rust-folder_locker and follow the given instructions
+And don't forget your password
